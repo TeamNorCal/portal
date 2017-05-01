@@ -18,4 +18,8 @@ Early attempts at capturing XM<br />
 
 # Progress on Portal Core Construction
 Work begins on the construction of the portal base<br />
-![Base](/base.jpg)<br />
+![Base](/base.jpg) ![Base Progress](/portal-base-progress.jpg)<br />
+
+# Resonators
+Resonators are progressing<br />
+![Resonators-RES](/resonator-progress-blue.jpg) ![Resonators-ENL](/resonator-progress-green.jpg)<br />
