@@ -1,4 +1,7 @@
-# portal
+# Team NorCal's "Portal"
+![TeamNorCal](/TeamNorCal-at-Camp-Navarro.jpg) ![TeamNorCal2](/TeamNorCal-at-Camp-Navarro2.jpg)
+More photos -> https://goo.gl/photos/5skmVDkyi8x1A2z37
+
 Welcome to Team NorCal's portal design Github page
 
 # Leaked Image
